@@ -1,18 +1,7 @@
----
-layout: page
-title: About
-permalink: /about/
-image: /assets/article_images/about/a5.png
----
-
----
-
 "Publications"
----
 
----
+
 "Articles"
----
 >2020
 >P.-A. Absil, Ousmane Diao, Mouhamadou Diallo, Assessment of COVID-19 hospitalization forecast from a simplified SIR model.
 > article published in LETTERS IN BIOMATHEMATICS, an International Journal
