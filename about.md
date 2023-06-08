@@ -2,20 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+image: /assets/article_images/about/a5.png
 ---
 
 ---
-layout: post
-title:  "Publications"
-date:   2014-08-29 14:34:25
-categories: jekyll update
-tags: featured
-image: https://github.com/OD1992/ODiao/blob/8207bf5280db58831535f1b9e7379989681ec9ba/assets/article_images/about/a5.png
+
+"Publications"
 ---
 
 ---
-layout: post
-title:  "Articles"
+"Articles"
 ---
 >2020
 >P.-A. Absil, Ousmane Diao, Mouhamadou Diallo, Assessment of COVID-19 hospitalization forecast from a simplified SIR model.
@@ -27,8 +23,7 @@ title:  "Articles"
 malaria incidence in three endemic regions of Senegal, article submitted.
   
 ---
-layout: post
-title:  "Conferences"
+"Conferences"
 ---
 >2020
 >Ousmane Diao, Mathematical modelling of malaria transmission taking into account the influence of current prevention and treatment.
