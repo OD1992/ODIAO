@@ -10,7 +10,7 @@ title:  "Publications"
 date:   2014-08-29 14:34:25
 categories: jekyll update
 tags: featured
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+image: https://github.com/OD1992/ODiao/blob/8207bf5280db58831535f1b9e7379989681ec9ba/assets/article_images/about/a5.png
 ---
 
 ---
