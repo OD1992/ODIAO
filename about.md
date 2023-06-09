@@ -4,7 +4,7 @@ title:  "About"
 date:   2023-06-08 
 categories: jekyll update
 tags: featured
-image: /assets/article_images/a5.png
+image: /assets/article_images/about/a5.png
 ---
 "Publications"
 
