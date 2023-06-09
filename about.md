@@ -4,7 +4,7 @@ title:  "About"
 date:   2023-06-08 
 categories: jekyll update
 tags: featured
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+image: /assets/article_images/a5.png
 ---
 "Publications"
 
@@ -19,9 +19,8 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 >O. Diao, P.-A. Absil, and M. Diallo, Generalized linear models to forecast
 malaria incidence in three endemic regions of Senegal, article submitted.
   
----
+
 "Conferences"
----
 >2020
 >Ousmane Diao, Mathematical modelling of malaria transmission taking into account the influence of current prevention and treatment.
 > Abstract <a href="https://www.dropbox.com/s/n451fxy7l2uns4r/main_benelux.pdf?dl=0&quot;">link</a> and Slides <a href="https://www.dropbox.com/s/soz1pnpa699tfm7/benelux%20presentation%20new.pdf?dl=0&quot;">link</a>
