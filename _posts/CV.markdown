@@ -3,7 +3,6 @@ layout: post
 title:  "CV"
 date:   2023-06-08
 categories: jekyll update
-tags: featured
 ---
 
 >The CV can be dowloaded here:
