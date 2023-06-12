@@ -1,10 +1,7 @@
 ---
-layout: post
-title:  "About"
-date:   2023-06-08 
-categories: jekyll update
-tags: featured
-image: /assets/article_images/about/a5.png
+layout: page
+title: About
+permalink: /about/
 ---
 "Publications"
 
