@@ -2,7 +2,7 @@
 layout: post
 title:  "CV"
 date:   2023-06-08
-categories: jekyll update
+categories: #jekyll update
 ---
 
 >The CV can be dowloaded here:
