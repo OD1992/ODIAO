@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 
 
-email: diaoousmane1@gmail.com
+email: "diaoousmane1@gmail.com"
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
@@ -27,7 +27,7 @@ paginate:	5
 url: "https://od1992.github.io/" # the base hostname & protocol for your site
 baseurl: "/ODIAO/"
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: #'@dirkfabisch'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
