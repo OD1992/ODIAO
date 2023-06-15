@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CV"
+title:  "My CV"
 date:   2023-06-08
 permalink: /CV/
 ---
