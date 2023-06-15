@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Github
+title: My Github
 permalink: /Social/
 ---
 
