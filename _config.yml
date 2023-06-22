@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Personal page"
 description: > # this means to ignore newlines until "email:"
-   Ousmane Diao research overview
+   #Ousmane Diao research overview
 
 email: "diaoousmane1@gmail.com"
 #blog logo
