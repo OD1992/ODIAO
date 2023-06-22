@@ -7,7 +7,7 @@ tags: #featured
 image: #/assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
----
+
 * Profesional email: <ousmane.diao@uclouvain.be>
 * Personal email: <diaoousmane1@gmail.com>
 * Research Team: SST/ICTM/INMA
