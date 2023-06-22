@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About
+title: Publications
 permalink: /about/
 ---
-"Publications"
 
 
-"Articles"
+<h1>Articles</h1>
 >2020, P.-A. Absil, Ousmane Diao, Mouhamadou Diallo, Assessment of COVID-19 hospitalization forecast from a simplified SIR model.
 > article published in LETTERS IN BIOMATHEMATICS, an International Journal
 ><a href="https://lettersinbiomath.journals.publicknowledgeproject.org/index.php/lib/article/view/403">URL</a>
@@ -15,7 +14,7 @@ permalink: /about/
 malaria incidence in three endemic regions of Senegal, article submitted.
   
 
-"Conferences"
+<h1>Conferences</h1>
 >2020, Ousmane Diao, Mathematical modelling of malaria transmission taking into account the influence of current prevention and treatment.
 > Abstract <a href="https://www.dropbox.com/s/n451fxy7l2uns4r/main_benelux.pdf?dl=0&quot;">link</a> and Slides <a href="https://www.dropbox.com/s/soz1pnpa699tfm7/benelux%20presentation%20new.pdf?dl=0&quot;">link</a>
 >39th Benelux Meeting, Netherlands.
