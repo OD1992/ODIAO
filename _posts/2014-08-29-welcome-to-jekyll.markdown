@@ -2,9 +2,9 @@
 layout: post
 title:  "Contact Information"
 date:   2023-06-12 
-categories: jekyll update
-tags: featured
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+categories: #jekyll update
+tags: #featured
+image: #/assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
 >Ousmane Diao
