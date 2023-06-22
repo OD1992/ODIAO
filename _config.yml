@@ -48,8 +48,8 @@ twitter_handle: #'@dirkfabisch'
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/OD1992/Python-programs
+ # - icon:	github
+ #   url:	https://github.com/OD1992/Python-programs
    # desc:	Fork me on github
    # share_url:
    # share_title:
