@@ -6,7 +6,7 @@ permalink: /publications/
 
 ---
 <h1>Articles</h1>
->2020, P.-A. Absil, Ousmane Diao, Mouhamadou Diallo, Assessment of COVID-19 hospitalization forecast from a simplified SIR model, article published in LETTERS IN BIOMATHEMATICS, an International Journal.
+>2021, P.-A. Absil, Ousmane Diao, Mouhamadou Diallo, Assessment of COVID-19 hospitalization forecast from a simplified SIR model, article published in LETTERS IN BIOMATHEMATICS, an International Journal.
 ><a href="https://lettersinbiomath.journals.publicknowledgeproject.org/index.php/lib/article/view/403">URL</a>
 
 >2023, O. Diao, P.-A. Absil, and M. Diallo, Generalized linear models to forecast
