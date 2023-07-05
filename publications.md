@@ -10,7 +10,8 @@ permalink: /publications/
 ><a href="https://lettersinbiomath.journals.publicknowledgeproject.org/index.php/lib/article/view/403">URL</a>
 
 >2023, O. Diao, P.-A. Absil, and M. Diallo, Generalized linear models to forecast
-malaria incidence in three endemic regions of Senegal, article submitted.
+malaria incidence in three endemic regions of Senegal, Int. J. Environ. Res. Public Health, Volume 20, Issue 13, 6303.
+><a href="https://www.mdpi.com/1660-4601/20/13/6303">URL</a>
   
 ---
 <h1>Conferences</h1>
