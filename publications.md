@@ -5,6 +5,11 @@ permalink: /publications/
 ---
 
 ---
+<h1>Thesis</h1>
+>2023, Diao, Ousmane. Mathematical modelling of infectious diseases : COVID-19 and Malaria.  Prom. : Absil, Pierre-Antoine; Diallo, Mouhamadou; UCLouvain\SST\ICTM.
+><a href="http://hdl.handle.net/2078.1/277866">URL</a>
+
+---
 <h1>Articles</h1>
 >2021, P.-A. Absil, Ousmane Diao, Mouhamadou Diallo, Assessment of COVID-19 hospitalization forecast from a simplified SIR model, article published in LETTERS IN BIOMATHEMATICS, an International Journal.
 ><a href="https://lettersinbiomath.journals.publicknowledgeproject.org/index.php/lib/article/view/403">URL</a>
